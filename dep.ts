@@ -1,0 +1,1 @@
+export { Jotform } from 'https://raw.githubusercontent.com/craibuc/deno-jotform/main/mod.ts';
